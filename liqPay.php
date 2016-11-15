@@ -3,8 +3,8 @@
 function get_payment_form($price)
 {
   include("class_liqPay.php");
-  $public_key = '345345';
-  $private_key = 'UKQb2zzf1f3EUqZNwxCwreXDX67n2X5T';
+  $public_key = '';
+  $private_key = '';
 
 
   $liqpay = new LiqPay($public_key, $private_key);
