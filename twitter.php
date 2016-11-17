@@ -9,10 +9,10 @@ class Utils {
 
 class OAuthTwitter {
 
-    const CONSUMER_KEY = 'rwNF1T8pZ0kNVVxE1o1JmjhJB';
-    const CONSUMER_SECRET = 'p7wIwgfNSlraw74j7ZmJ6SsrtR5DgpTA2whrztEwC47gQVGH2I';
-    const URL_CALLBACK = 'http://vape.ratio.tech/inc/social/auth.php?source=twitter';
-    const URL_GET_TOKEN = 'https://api.twitter.com/oauth2/token';
+    const CONSUMER_KEY = '';
+    const CONSUMER_SECRET = '';
+    const URL_CALLBACK = '';
+    const URL_GET_TOKEN = '';
     const URL_REQUEST_TOKEN = 'https://api.twitter.com/oauth/request_token';
     const URL_AUTHORIZE = 'https://api.twitter.com/oauth/authorize';
     const URL_ACCESS_TOKEN = 'https://api.twitter.com/oauth/access_token';
